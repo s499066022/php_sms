@@ -1,0 +1,11 @@
+{
+    "name": "scy/php_sms",
+    "description": "php_sms",
+    "require": {
+        "php": "^7.3|^8.0",
+        "phpunit/phpunit": "^9.5.10",
+        "alibabacloud/dysmsapi-20170525": "^2.0",
+        "tencentcloud/sms": "^3.0"
+    }
+    
+}
