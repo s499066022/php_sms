@@ -1,6 +1,12 @@
 {
-    "name": "scy/php_sms",
-    "description": "php_sms",
+    "name": "scy/phpsms",
+    "description": "phpsms",
+    "authors": [
+        {
+            "name": "scy alan",
+            "email": "499066022@qq.com"
+        }
+    ],
     "require": {
         "php": "^7.3|^8.0",
         "phpunit/phpunit": "^9.5.10",
